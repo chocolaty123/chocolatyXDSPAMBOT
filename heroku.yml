@@ -1,0 +1,5 @@
+build:
+  docker:
+    XD: Dockerfile
+run:
+  XD: python3 -m main.py
