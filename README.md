@@ -17,7 +17,7 @@
 
 - ⚠️ Do not forget to fork this repo. Else error can occur in deployment.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/ItZxSTaR/TheBotSpam)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/rocks143014/XDSPAMBOT/)
   
 </details>
 
