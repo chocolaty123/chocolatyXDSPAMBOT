@@ -1,8 +1,8 @@
-<h1 align="center"><b>😈 𝙓𝘿 𝙎𝙥𝙖𝙢 🔥💫 😈</b></h1>
+<h1 align="center"><b>😈⏤͟͞•𝐂𝐇𝐎𝐂𝐎𝐋𝐀𝐓𝐘 ꭙ 𝐕𝐈𝐑𝐔𝐒™⏤͟͞  🔥💫 😈</b></h1>
 
 <h4 align="center"> σиє σf тнє вєѕт ѕραм вσт</h4>
 
-<p align="center"><a href="https://t.me/ROCKY_ISS_BACK"><img src="https://graph.org/file/12920ccce6f3ccb9f8cef.jpg" width="500"></a></p>
+<p align="center"><a href="https://t.me/ll_Stylish_ChoCoLATy_ll"><img src="https://graph.org/file/3a2136503a930532ec61e.jpg" width="500"></a></p>
 
 
 > ⭐️ Thanks to everyone for using THIS OP XD SPAM BOT, That is the greatest pleasure we have !
