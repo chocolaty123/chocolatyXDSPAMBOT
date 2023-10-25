@@ -12,7 +12,7 @@ PythonButton = [
         Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/ROCKY_ISS_BACK")
         ],
         [
-        Button.url("• ʀᴇᴘᴏ •", "https://github.com/rocks143014/TheBotSpam")
+        Button.url("• ʀᴇᴘᴏ •", "https://t.me/N91Ab/6")
         ]
         ]
 
@@ -39,6 +39,6 @@ async def start(event):
         TEXT += f"» **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{telethon.__version__}`\n━━━━━━━━━━━━━━━━━"
         await event.client.send_file(
                 event.chat_id,
-                "https://graph.org/file/66aa80c1153a20238e974.jpg",
+                "https://graph.org/file/3a2136503a930532ec61e.jpg",
                 caption=TEXT, 
                 buttons=PythonButton)
